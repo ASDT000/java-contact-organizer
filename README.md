@@ -1,4 +1,4 @@
-# iFriend Contact Organizer
+# Contact Organizer Console App
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Console](https://img.shields.io/badge/Platform-Console-brightgreen)
